@@ -1,0 +1,17 @@
+{
+    "name": "vendor/ytcourse",
+    "autoload": {
+        "psr-4": {
+            "Vendor\\Ytcourse\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "oPinqz"
+        }
+    ],
+    "autoload": {
+    "classmap": ["src"]
+    },
+    "require": {}
+}
